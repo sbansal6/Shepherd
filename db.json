@@ -8,7 +8,7 @@
     {
       "name": "clients2",
       "paths": "/customers",
-      "baseUrl": "http://localhost:3000/admin/proxies"
+      "baseUrl": "http://localhost:3000/admin"
     }
   ]
 }

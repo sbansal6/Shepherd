@@ -36,6 +36,15 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="tsconfig.json" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../Shepherd/tsconfig.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="25" lean-forward="true" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="Proxy.ts" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../Shepherd/bin/Proxy.ts">
           <provider selected="true" editor-type-id="text-editor">
@@ -103,11 +112,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../Shepherd/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="75">
-              <caret line="5" column="4" lean-forward="true" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
+              <caret line="5" column="7" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../Shepherd/api/routes/index.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="1" column="19" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -179,6 +197,7 @@
         <option value="$PROJECT_DIR$/engine/index.ts" />
         <option value="$PROJECT_DIR$/package.json" />
         <option value="$PROJECT_DIR$/../Shepherd/.gitignore" />
+        <option value="$PROJECT_DIR$/../Shepherd/tsconfig.json" />
       </list>
     </option>
   </component>
@@ -230,7 +249,7 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.tslint" value="" />
     <property name="nodejs_interpreter_path" value="$USER_HOME$/.nvm/versions/node/v4.0.0/bin/node" />
-    <property name="settings.editor.selected.configurable" value="settings.typescriptcompiler" />
+    <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
     <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
   </component>
   <component name="RecentsManager">
@@ -386,12 +405,12 @@
       <workItem from="1525055903725" duration="1004000" />
       <workItem from="1525057024617" duration="4819000" />
       <workItem from="1525105118140" duration="14588000" />
-      <workItem from="1525150310287" duration="5976000" />
+      <workItem from="1525150310287" duration="6498000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26387000" />
+    <option name="totallyTimeSpent" value="26909000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -404,9 +423,10 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="1920" y="23" width="1920" height="1057" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info anchor="bottom" id="TypeScript" order="11" weight="0.23529412" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.11901001" />
+      <window_info anchor="bottom" id="TypeScript" order="11" weight="0.5833333" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1421801" />
       <window_info anchor="bottom" id="TODO" order="7" weight="0.32905984" />
       <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
@@ -414,7 +434,7 @@
       <window_info anchor="bottom" id="Run" order="3" />
       <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.5875" />
+      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.5875" />
       <window_info anchor="bottom" id="Debug" order="4" weight="0.4" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -427,6 +447,25 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+    <option name="exactExcludedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/../Shepherd/ui/index.js" />
+        <option value="$PROJECT_DIR$/../Shepherd/patterns/aggregate.js" />
+        <option value="$PROJECT_DIR$/../Shepherd/patterns/circuitbreaker.js" />
+        <option value="$PROJECT_DIR$/../Shepherd/patterns/timeout.js" />
+        <option value="$PROJECT_DIR$/../Shepherd/patterns/proxy.js" />
+        <option value="$PROJECT_DIR$/../Shepherd/patterns/retry.js" />
+        <option value="$PROJECT_DIR$/../Shepherd/patterns/chained.js" />
+        <option value="$PROJECT_DIR$/../Shepherd/patterns/composition.js" />
+        <option value="$PROJECT_DIR$/../Shepherd/patterns/batch.js" />
+        <option value="$PROJECT_DIR$/../Shepherd/engine/index.js" />
+        <option value="$PROJECT_DIR$/../Shepherd/bin/Proxy.js" />
+        <option value="$PROJECT_DIR$/../Shepherd/bin/db.service.js" />
+        <option value="$PROJECT_DIR$/../Shepherd/bin/ProxyHandler.js" />
+        <option value="$PROJECT_DIR$/../Shepherd/api/routes/proxies.js" />
+        <option value="$PROJECT_DIR$/../Shepherd/api/routes/index.js" />
+      </list>
+    </option>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -577,13 +616,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../Shepherd/tsconfig.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="22" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../Shepherd/ui/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1110">
@@ -623,13 +655,6 @@
             <element signature="n#!!block;n#addProxy#0" />
             <element signature="n#!!block;n#removeProxy#0" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Shepherd/api/routes/index.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="19" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
         </state>
       </provider>
     </entry>
@@ -703,6 +728,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/../Shepherd/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="7" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Shepherd/api/routes/index.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="19" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/../Shepherd/package.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
@@ -710,10 +749,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../Shepherd/.gitignore">
+    <entry file="file://$PROJECT_DIR$/../Shepherd/tsconfig.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="4" lean-forward="true" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
+        <state relative-caret-position="60">
+          <caret line="4" column="25" lean-forward="true" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
         </state>
       </provider>
     </entry>
