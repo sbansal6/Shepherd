@@ -24,17 +24,13 @@ app.all('/*', function (req, res, next) {
     }
 });
 
-// engine should render index.html
-app.get('/', function(req, res){
-    res.sendfile('index.html', { root: __dirname + "/../ui" } );
-});
+/**
+ * Spin up routes
+ */
 require('../api/routes/index')(app);
-// engine should server api (admin api as well)
-app.use("/admin",[],function(req,res,next){
-    res.send({status:"admin ok"})
-})
-
-// engine should process all proxies
+/**
+ * Engine should process all proxies at startup
+ */
 db.proxies.forEach(function(proxy:Proxy){
     app.use(proxy.paths,[], ProxyHandler.handle(proxy));
 })

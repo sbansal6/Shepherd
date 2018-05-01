@@ -3,6 +3,7 @@ import {forEach} from 'async'
 import {Proxy} from '../../bin/Proxy'
 
 module.exports = function(app){
+    app.get('/admin',admin)
     app.get('/admin/proxies',getProxies);
     app.post('/admin/proxies',addProxy);
     app.delete('/admin/proxies',removeProxy)
@@ -28,6 +29,10 @@ function addProxy(req,res){
 
 function removeProxy(){
 
+}
+
+function admin(req,res){
+    res.send({status:"admin ok"})
 }
 
 
