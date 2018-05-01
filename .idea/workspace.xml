@@ -94,11 +94,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="package.json" pinned="false" current-in-tab="true">
+      <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../Shepherd/package.json">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="15">
               <caret line="1" column="19" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../Shepherd/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="4" lean-forward="true" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
             </state>
           </provider>
         </entry>
@@ -169,6 +178,7 @@
         <option value="$PROJECT_DIR$/bin/Proxy.ts" />
         <option value="$PROJECT_DIR$/engine/index.ts" />
         <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/../Shepherd/.gitignore" />
       </list>
     </option>
   </component>
@@ -186,10 +196,11 @@
       <path value="$PROJECT_DIR$/../Shepherd/package.json" />
     </packageJsonPaths>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1920" />
     <option name="y" value="23" />
-    <option name="width" value="1440" />
-    <option name="height" value="794" />
+    <option name="width" value="1920" />
+    <option name="height" value="1057" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -375,12 +386,12 @@
       <workItem from="1525055903725" duration="1004000" />
       <workItem from="1525057024617" duration="4819000" />
       <workItem from="1525105118140" duration="14588000" />
-      <workItem from="1525150310287" duration="5516000" />
+      <workItem from="1525150310287" duration="5976000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25927000" />
+    <option name="totallyTimeSpent" value="26387000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -392,10 +403,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="794" extended-state="0" />
+    <frame x="1920" y="23" width="1920" height="1057" extended-state="6" />
     <layout>
       <window_info anchor="bottom" id="TypeScript" order="11" weight="0.23529412" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15926708" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.11901001" />
       <window_info anchor="bottom" id="TODO" order="7" weight="0.32905984" />
       <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
@@ -403,7 +414,7 @@
       <window_info anchor="bottom" id="Run" order="3" />
       <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.902439" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.5875" />
       <window_info anchor="bottom" id="Debug" order="4" weight="0.4" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -696,6 +707,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
           <caret line="1" column="19" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Shepherd/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="4" lean-forward="true" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
         </state>
       </provider>
     </entry>
