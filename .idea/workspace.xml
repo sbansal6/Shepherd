@@ -14,118 +14,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="db.service.ts" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../Shepherd/bin/db.service.ts">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="30" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="30" />
-              <folding>
-                <element signature="e#0#35#0" expanded="true" />
-                <element signature="n#DbService#0" />
-                <element signature="n#!!block;n#constructor#0;n#DbService#0" />
-                <element signature="n#!!block;n#Instance#0;n#DbService#0" />
-                <element signature="n#!!block;n#proxies#0;n#DbService#0" />
-                <element signature="n#!!block;n#getProxy#0;n#DbService#0" />
-                <element signature="n#!!block;n#upsert#0;n#DbService#0" />
-                <element signature="n#!!block;n#add#0;n#DbService#0" />
-                <element signature="n#!!block;n#update#0;n#DbService#0" />
-                <element signature="n#!!block;n#remove#0;n#DbService#0" />
-                <element signature="n#!!block;n#disable#0;n#DbService#0" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="tsconfig.json" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/../Shepherd/tsconfig.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="25" lean-forward="true" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Proxy.ts" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../Shepherd/bin/Proxy.ts">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
-              <folding>
-                <element signature="n#Proxy#0" />
-                <element signature="n#!!block;n#constructor#0;n#Proxy#0" />
-                <element signature="n#!!block;n#name#0;n#Proxy#0" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ProxyHandler.ts" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../Shepherd/bin/ProxyHandler.ts">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="27" column="22" selection-start-line="27" selection-start-column="22" selection-end-line="27" selection-end-column="22" />
-              <folding>
-                <element signature="n#!!doc;n#ProxyHandler#0" />
-                <element signature="n#ProxyHandler#0" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.ts" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../Shepherd/engine/index.ts">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="31" selection-start-line="31" selection-end-line="31" />
-              <folding>
-                <element signature="e#15#50#0" expanded="true" />
-                <element signature="e#457#881#0" />
-                <element signature="e#952#1020#0" />
-                <element signature="e#1152#1189#0" />
-                <element signature="e#1269#1329#0" />
-                <element signature="e#1379#1437#0" />
-                <element signature="e#1487#1545#0" />
-                <element signature="e#1586#1707#0" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.ts" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../Shepherd/ui/index.ts">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret line="37" column="3" selection-start-line="37" selection-start-column="3" selection-end-line="37" selection-end-column="3" />
-              <folding>
-                <element signature="e#18#837#0" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../Shepherd/package.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" column="19" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../Shepherd/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="7" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.ts" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../Shepherd/api/routes/index.ts">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" column="19" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
+            <state relative-caret-position="90">
+              <caret line="6" column="11" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
             </state>
           </provider>
         </entry>
@@ -196,8 +89,8 @@
         <option value="$PROJECT_DIR$/bin/Proxy.ts" />
         <option value="$PROJECT_DIR$/engine/index.ts" />
         <option value="$PROJECT_DIR$/package.json" />
-        <option value="$PROJECT_DIR$/../Shepherd/.gitignore" />
         <option value="$PROJECT_DIR$/../Shepherd/tsconfig.json" />
+        <option value="$PROJECT_DIR$/../Shepherd/.gitignore" />
       </list>
     </option>
   </component>
@@ -405,12 +298,12 @@
       <workItem from="1525055903725" duration="1004000" />
       <workItem from="1525057024617" duration="4819000" />
       <workItem from="1525105118140" duration="14588000" />
-      <workItem from="1525150310287" duration="6498000" />
+      <workItem from="1525150310287" duration="6555000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26909000" />
+    <option name="totallyTimeSpent" value="26966000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -728,13 +621,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../Shepherd/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="7" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../Shepherd/api/routes/index.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
@@ -751,8 +637,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../Shepherd/tsconfig.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="25" lean-forward="true" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
+        <state relative-caret-position="135">
+          <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Shepherd/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="11" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
         </state>
       </provider>
     </entry>
