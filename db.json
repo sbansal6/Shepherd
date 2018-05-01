@@ -1,0 +1,14 @@
+{
+  "proxies": [
+    {
+      "name": "clients",
+      "paths": "/clients",
+      "baseUrl": "http://localhost:3000/admin/proxies"
+    },
+    {
+      "name": "clients2",
+      "paths": "/customers",
+      "baseUrl": "http://localhost:3000/admin/proxies"
+    }
+  ]
+}
